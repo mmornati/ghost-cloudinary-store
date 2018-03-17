@@ -1,6 +1,6 @@
 {
   "name": "ghost-cloudinary-store",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Cloudinary storage adapter for Ghost >= 1.x",
   "main": "index.js",
   "keywords": [
@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/eexit/ghost-storage-cloudinary"
+    "url": "https://github.com/mmornati/ghost-cloudinary-store"
   },
   "bugs": {
-    "url": "https://github.com/eexit/ghost-storage-cloudinary/issues"
+    "url": "https://github.com/mmornati/ghost-cloudinary-store/issues"
   },
   "author": "Joris Berthelot <admin@eexit.net>",
   "contributors": [
