@@ -1,7 +1,7 @@
 {
     "storage": {
-        "active": "ghost-storage-cloudinary",
-        "ghost-storage-cloudinary": {
+        "active": "cloudinary-store",
+        "cloudinary-store": {
             "auth": {
                 "cloud_name": "",
                 "api_key": "",

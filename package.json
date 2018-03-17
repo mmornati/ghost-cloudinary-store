@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/eexit/ghost-storage-cloudinary"
+    "url": "https://github.com/mmornati/ghost-cloudinary-store"
   },
   "bugs": {
-    "url": "https://github.com/eexit/ghost-storage-cloudinary/issues"
+    "url": "https://github.com/mmornati/ghost-cloudinary-store/issues"
   },
   "author": "Joris Berthelot <admin@eexit.net>",
   "contributors": [
@@ -31,6 +31,9 @@
     {
       "name": "aphe",
       "email": "afriyandi@cizzu.com"
+    },
+    {
+      "name": "eexit"
     }
   ],
   "license": "ISC",
