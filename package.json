@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmornati/ghost-cloudinary-store"
+    "url": "https://github.com/eexit/ghost-storage-cloudinary"
   },
   "bugs": {
-    "url": "https://github.com/mmornati/ghost-cloudinary-store/issues"
+    "url": "https://github.com/eexit/ghost-storage-cloudinary/issues"
   },
   "author": "Joris Berthelot <admin@eexit.net>",
   "contributors": [
