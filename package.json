@@ -42,7 +42,7 @@
     "cover": "istanbul cover _mocha -- test"
   },
   "dependencies": {
-    "bluebird": "3.5.1",
+    "bluebird": "3.5.2",
     "cloudinary": "~1.11.0",
     "ghost-storage-base": "0.0.2"
   },
