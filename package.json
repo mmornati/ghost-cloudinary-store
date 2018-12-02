@@ -42,8 +42,8 @@
     "cover": "istanbul cover _mocha -- test"
   },
   "dependencies": {
-    "bluebird": "3.5.1",
-    "cloudinary": "~1.11.0",
+    "bluebird": "3.5.2",
+    "cloudinary": "~1.12.0",
     "ghost-storage-base": "0.0.2"
   },
   "devDependencies": {
@@ -52,7 +52,7 @@
     "istanbul": "^0.4.5",
     "jshint": "^2.9.5",
     "mocha-jshint": "^2.3.1",
-    "nock": "^9.2.3",
-    "sinon": "^5.0.0"
+    "nock": "^10.0.0",
+    "sinon": "^6.0.0"
   }
 }
